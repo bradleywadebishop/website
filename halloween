@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<!--
+	Introspect by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Wade Bishop - Research</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="index.html" class="logo">Wade Bishop</a>
+					<nav id="nav">
+						<a href="index.html">About</a>
+						<a href="research.html">Research</a>
+						<a href="teaching.html">Teaching</a>
+						<a href="CV.pdf">CV</a>
+					</nav>
+				</div>
+			</header>
+			<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+
+		<!-- Main -->
+			<section id="main" >
+				<div class="inner">
+					<header class="major special">
+						<h1>Research</h1>
+					</header>
+					<p><span class="image left"><a href="https://www.nps.gov/Halloween_2019/index.htm"><img src="images/arch1.JPG" alt="Arches"></a></span></p>
