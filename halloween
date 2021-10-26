@@ -34,3 +34,11 @@
 						<h1>Research</h1>
 					</header>
 					<p><span class="image left"><a href="https://www.nps.gov/Halloween_2019/index.htm"><img src="images/arch1.JPG" alt="Arches"></a></span></p>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
